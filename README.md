@@ -6,7 +6,7 @@ This repository stores our experimental codes for the paper “Excluding Indirec
 
 ## Datasets
 
-We used 5 datasets, all of which are widely used in fairness research: Adult, COMPAS, German Credit, Default and Heart Disease. We provide these data sets in the "dataset" folder.
+We used 5 datasets, all of which are widely used in fairness research: **Adult, COMPAS, German Credit, Default and Heart Disease**. We provide these data sets in the "dataset" folder.
 
 <br/>
 
