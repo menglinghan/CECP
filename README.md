@@ -1,7 +1,7 @@
 # Excluding Indirect Bias from the Association between Protected and Non-protected Attributes for the Fairness of Machine Learning Software
 
 
-This repository stores our experimental codes for the paper “Excluding Indirect Bias from the Association between Protected and Non-protected Attributes for the Fairness of Machine Learning Software”，CECP is short for the method we propose in this paper: Confounding Effect based Construction and Prediction.
+This repository stores our experimental codes for the paper “Excluding Indirect Bias from the Association between Protected and Non-protected Attributes for the Fairness of Machine Learning Software”，CECP is short for the method we propose in this paper: *Confounding Effect based Construction and Prediction*.
 
 <br/>
 
