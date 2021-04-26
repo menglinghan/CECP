@@ -46,5 +46,5 @@ from aif360.algorithms.preprocessing import DisparateImpactRemover
 ```
 
 ## Experimental settings
-* When training the model, we refer to Fairway's data preprocessing method and delete some attributes. Therefore, in RQ1 (Figure 4), the total number of attributes we refer to is the number after deletion.
-* In Discussion 3, when we use AOD and EOD, we refer to Fairway's usage and report after taking the absolute value.
+* When training the model, we refer to Fairway's data preprocessing method and delete some attributes. Therefore, in RQ1 (Figure 4), the total number of attributes we refer to is **the number after deletion**.
+* In Discussion 3, when we use AOD and EOD, we refer to Fairway's usage and report after **taking the absolute value**, less absolute values of |AOD| and |EOD| mean more fairness.
